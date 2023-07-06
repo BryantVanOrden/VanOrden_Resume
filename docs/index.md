@@ -96,7 +96,7 @@ __Service Missionary__, Califoria and Guatemala
 ## Contact Information
 
 - PHONE:
-(480) – 316 – 3334
+(480) – 353 – 9004
 
 LINKEDIN:
 
