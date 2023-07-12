@@ -6,7 +6,7 @@ title: Bryant Van Orden Resume
 Software Engineer
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="SUPERMANISMEBVO123@GMAIL.COM">SUPERMANISMEBVO123@GMAIL.COM</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/bryant-van-orden-722818252/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
